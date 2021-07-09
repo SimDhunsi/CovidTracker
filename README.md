@@ -1,4 +1,4 @@
-# Covid Trakcer
+# Covid Tracker
 A web app built using php to track covid cases from around the world
 Live data on current, recovered and deaths for each country imported from Pomber API.
 
